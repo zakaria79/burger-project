@@ -1,0 +1,10 @@
+FIREBASE
+--------
+
+https://react-my-burger-4c37c.firebaseio.com/
+
+Changer les règles de la database (true, true)
+
+CSS SPINNER
+-----------
+https://projects.lukehaas.me/css-loaders/
